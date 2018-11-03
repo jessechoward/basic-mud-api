@@ -1,0 +1,23 @@
+{
+  "name": "basic-mud-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/jessechoward/basic-mud-api.git",
+  "keywords": [],
+  "author": "Jesse Howard <jessechoward@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessechoward/basic-mud-api/issues"
+  },
+  "homepage": "https://github.com/jessechoward/basic-mud-api#readme",
+  "dependencies": {
+    "basic-mud-db": "https://github.com/jessechoward/basic-mud-db#0.0.1",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "git": "^0.1.5"
+  }
+}
